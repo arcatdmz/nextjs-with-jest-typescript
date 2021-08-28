@@ -41,3 +41,7 @@ https://github.com/vercel/next.js/tree/master/examples/with-typescript-eslint-je
 ---
 
 https://github.com/arcatdmz/nextjs-with-jest-typescript
+
+## Issues
+
+- npm install issue resolved - refer - https://github.com/arcatdmz/nextjs-with-jest-typescript/issues/3
